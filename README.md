@@ -15,7 +15,7 @@ This repository contains a linear algebra project focused on the mathematical fo
 Dr. Isabel Muller
 
 ## Date
-November 2024
+December 4, 2024
 
 ## Topics Covered
 - Matrix operations (transpose, inverse, multiplication)  
